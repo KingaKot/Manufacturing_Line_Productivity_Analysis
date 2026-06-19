@@ -29,3 +29,11 @@ The first stage of the project focused on data cleaning and transformation.
 
 The cleaned datasets were exported as CSV files and prepared for further analysis in SQL and Power BI.
 
+## 🗄️ SQL – Data Modeling & Analysis
+
+*Coming soon*
+
+
+## 📈 Power BI – Data Visualization & Reporting
+
+*Coming soon*
