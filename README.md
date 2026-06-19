@@ -8,7 +8,7 @@ The goal of this project is to prepare raw data for analysis, build a relational
 - **SQL** - Data Modeling & Analysis
 - **Power BI** - Data Visualization & Reporting
 
-## 🐍 Python - Data Preparation
+## 🐍 Python - Data Preparation & Transformation
 The first stage of the project focused on data cleaning and transformation.
 
 ### 🔍 Key Steps:
